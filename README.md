@@ -12,7 +12,7 @@ This is a simple markdown editor Built with svelte that allows you to create doc
 - tailwind/typography
 - iconify/svelte
 
-### Roadmap:
+### Possible Future Features:
 - Download and upload files
 - Save to blogs api
 - change between markdown and html for styling
